@@ -1,2 +1,2 @@
 # litefsm
-Very lightweight and straightforward python implementation of a finite state machine
+Very lightweight and straightforward implementation of a python library for defining Mealy Finite State Machines.
